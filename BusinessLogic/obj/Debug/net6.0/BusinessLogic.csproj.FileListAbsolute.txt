@@ -1,0 +1,16 @@
+G:\PracticeProject\APICRUDOperations\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+G:\PracticeProject\APICRUDOperations\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+G:\PracticeProject\APICRUDOperations\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+G:\PracticeProject\APICRUDOperations\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+G:\PracticeProject\APICRUDOperations\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\Business.CF5D6E35.Up2Date
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+G:\PracticeProject\APICRUDOperations\BusinessLogic\obj\Debug\net6.0\BusinessLogic.sourcelink.json
